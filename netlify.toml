@@ -21,8 +21,5 @@
         '''
         
         Content-Security-Policy = '''
-            style-src 'nonce-aGVsbG90aGVyZXRoZXJlaGVsbG8=';
-            style-src-elem https://fonts.googleapis.com/css2?family=Lato:wght@400&display=swap;           
-            font-src https://fonts.googleapis.com/css2?family=Lato:wght@400&display=swap;
-            img-src https://sarrquatch.netlify.app/profilepicture.png;
+            
         '''
